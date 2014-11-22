@@ -1,3 +1,6 @@
+contentdir = "content"
+layoutdir = "layout"
+publishdir = "public"
 baseurl = "http://blog.thezymologist.com"
 languageCode = "en-us"
 title = "The Zymologist"
