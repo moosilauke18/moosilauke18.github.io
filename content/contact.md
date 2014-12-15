@@ -2,6 +2,7 @@
 date = "2014-12-15T01:34:52-05:00"
 draft = false
 title = "contact"
+description = "Contact Evan"
 
 +++
 To contact Evan Farrell, you can email him [evandev@gastrograph.com][email].

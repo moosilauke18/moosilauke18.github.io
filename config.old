@@ -2,5 +2,6 @@ contentdir = "content"
 layoutdir = "layout"
 publishdir = "public"
 baseurl = "http://www.thezymologist.com"
+params 
 languageCode = "en-us"
 title = "The Zymologist"
