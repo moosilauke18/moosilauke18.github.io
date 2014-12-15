@@ -1,0 +1,27 @@
+{{ template "theme/partials/header.html" . }}
+{{range where .Data.Pages "Section" "post" }}
+
+<div class="row">
+  <div class="col-md-8 col-md-offset-2">
+    <div class="post">
+      <h3 class="post-title">
+        <a href="{{ .Permalink }}">
+          {{ .Title }}
+        </a>
+      </h3>
+
+      <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>    			
+      <p>
+      {{ .Summary }}	
+      </p>
+      <p>
+      <a href="{{ .Permalink }}" title="{{ .Title}}">
+        Read More
+      </a>
+      </p>
+    </div>
+    <hr>
+  </div>
+</div>
+{{ end }}
+{{ template "theme/partials/footer.html" . }}

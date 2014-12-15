@@ -7,7 +7,35 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    <updated>Mon, 15 Dec 2014 01:34:52 EST</updated>
+    
+    <item>
+      <title>contact</title>
+      <link>http://www.thezymologist.com/contact/</link>
+      <pubDate>Mon, 15 Dec 2014 01:34:52 EST</pubDate>
+      
+      <guid>http://www.thezymologist.com/contact/</guid>
+      <description>&lt;p&gt;To contact Evan Farrell, you can email him &lt;a href=&#34;&amp;quot;mailto:evandev@gastrograph.com&amp;quot;&#34;&gt;evandev@gastrograph.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.thezymologist.com/about/</link>
+      <pubDate>Fri, 21 Nov 2014 18:35:32 EST</pubDate>
+      
+      <guid>http://www.thezymologist.com/about/</guid>
+      <description>
+
+&lt;h4 id=&#34;toc_0&#34;&gt;Overview&lt;/h4&gt;
+
+&lt;p&gt;The Zymologist was created to showcase all things related to yeast.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Evan Farrell is a developer working for &lt;a href=&#34;&amp;quot;https://www.gastrograph.com&#34;&gt;Analytical Flavor Systems&lt;/a&gt; which created the Gastrograph System for Breweries to use.  He has been trying all things fermentation for a few years and is always up for a new challenge.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
