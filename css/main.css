@@ -26,7 +26,7 @@ footer {
     padding-top:10px;
     background-color:rgb(39,41,53);
     color: rgb(249,247,243);
-    height: 140px;
+    height: 180px;
 }
 footer.col1, footer.col2 {
     padding:2em;
@@ -38,7 +38,7 @@ footer h6 {
 #main {
     min-height: 100%;
     height: auto !important;
-    margin: 0 auto -140px;
+    margin: 0 auto -180px;
 }
 ul.social-media {
     text-align: left;
