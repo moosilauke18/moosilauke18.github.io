@@ -24,9 +24,11 @@ p {
 }
 footer {
     padding-top:10px;
+    margin-top: 20px;
+    bottom: 0;
     background-color:rgb(39,41,53);
     color: rgb(249,247,243);
-    height: 180px;
+    min-height: 180px;
 }
 footer.col1, footer.col2 {
     padding:2em;
@@ -37,6 +39,8 @@ footer h6 {
 
 #main {
     min-height: 100%;
+    line-height: 130%;
+    font-size: 18px;
     height: auto !important;
     margin: 0 auto -180px;
 }

@@ -1,7 +1,12 @@
 {{ template "theme/partials/header.html" . }}
 <div class="row">
   <div class="col-md-8 col-md-offset-2">
-{{.Content}}
+    {{.Content}}
+  </div>
 </div>
+<div class="row">
+  <div class="col-md-8 col-md-offset-2">
+    {{ template "_internal/disqus.html" . }}
+  </div>
 </div>
 {{ template "theme/partials/footer.html" . }}

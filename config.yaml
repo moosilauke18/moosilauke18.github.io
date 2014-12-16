@@ -6,3 +6,4 @@ params:
   Description: "A site for all things related to the science and art of fermentation"
 languageCode: "en-us"
 title: "The Zymologist"
+disqusShortname: "thezymologist"
