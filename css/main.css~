@@ -1,0 +1,82 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+html, body {
+    height: 100%;
+}
+body {
+    font-size: 16px;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
+    color:#000;
+}
+h6 {
+    font-size: 19px;
+}
+p {
+    font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
+    font-weight:200;
+}
+.header-links, .header-links > a {
+    size:18px;
+    color:rgb(218,73,57);
+    font-size: 18px;
+}
+footer {
+    padding-top:10px;
+    background-color:rgb(39,41,53);
+    color: rgb(249,247,243);
+    height: 180px;
+}
+footer.col1, footer.col2 {
+    padding:2em;
+}
+footer h6 {
+    color: rgb(249,247,243);
+}
+
+#main {
+    min-height: 100%;
+    line-height: 130%;
+    font-size: 18px;
+
+    height: auto !important;
+    margin: 0 auto -180px;
+}
+ul.social-media {
+    text-align: left;
+    padding: 0 0 10px 0;
+}
+ul.social-media li > a {
+    width: 32px;
+    height: 32px;
+    background: #f9f7f3;
+    background-image: url("/images/socials-icons.svg");
+    background-size: 224px 64px;
+    border-radius: 0.25em;
+    transition: background-color 0.2s;
+    border-bottom-color: transparent;
+}
+ul.social-media li > a:hover {
+    background-color:rgb(218,73,57);
+    border-bottom-color: transparent;
+    transition: background-color 0.2s;
+}
+a:hover {
+    color:rgb(218,73,57);
+}
+a {
+    border-bottom: 1px solid transparent;
+    text-decoration: none;
+    color:rgb(218,73,57);
+}
+.wc-img-replace {
+    display: inline-block;
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;
+    background-repeat: no-repeat;
+}
+ul {
+    list-style: none;
+}

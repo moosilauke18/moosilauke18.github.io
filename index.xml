@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on The Zymologist </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.thezymologist.com/index.xml/</link>
+    <link>http://localhost:1313/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,20 +11,44 @@
     
     <item>
       <title>contact</title>
-      <link>http://www.thezymologist.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 15 Dec 2014 01:34:52 EST</pubDate>
       
-      <guid>http://www.thezymologist.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;To contact Evan Farrell, you can email him &lt;a href=&#34;&amp;quot;mailto:evandev@gastrograph.com&amp;quot;&#34;&gt;evandev@gastrograph.com&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Then like magic life begins.</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Mon, 15 Dec 2014 01:20:18 EST</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;p&gt;The start of spontaneous fermentation can be an interesting phenomenon.  Before the &lt;em&gt;Revenge of Beer&lt;/em&gt; and Louis Pasteur&amp;rsquo;s finding of the wonderous life of yeast, people actually did believe it was magical. What made it more interesting is just how much of our life depends on fermentation in today&amp;rsquo;s culture.&lt;/p&gt;
+
+&lt;p&gt;Many people believe used to believe that it was through magic that things fermented. There are a few main categories to fermented goods that are pervasive throughout today&amp;rsquo;s culture. They include:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Fermented Beverages&amp;mdash;these include beer, wine, and spirits among other beverages.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bread&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cheese&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sausage&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The main goal of this blog is to learn each of these four &lt;code&gt;Tiers of Zymology&lt;/code&gt;. Hopefully, this will become a resource for people interested in these hobbies to learn from and try new experiements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>http://www.thezymologist.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 21 Nov 2014 18:35:32 EST</pubDate>
       
-      <guid>http://www.thezymologist.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>
 
 &lt;h4 id=&#34;toc_0&#34;&gt;Overview&lt;/h4&gt;
